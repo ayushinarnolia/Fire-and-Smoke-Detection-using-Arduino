@@ -55,7 +55,7 @@ An AI-enhanced fire and smoke detection system is developed using Arduino Uno wi
 
 ## 📄 Research Paper
 
-Read the full IEEE-style report here: **[IEEE_Report.pdf](./IEEE_Report.pdf)**
+Read the full IEEE-style report here: **[IEEE Report Fire and Smoke Detection.pdf](./IEEE%20Report%20Fire%20and%20Smoke%20Detection.pdf)**
 
 ## 🚀 Future Enhancements
 
